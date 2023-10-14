@@ -28,7 +28,6 @@ Heredity on CHD(IBS_NASL)
 
 # ANÁLISE
 
-
 #Relapse of the pain in the third day of the hospital period(R_AB_3_n)#
 
 Use of liquid nitrates in the ICU(NITR_S)
@@ -42,8 +41,6 @@ Use of opioid drugs by the Emergency Cardiology Team(NA_KB)
 Time elapsed from the beginning of the attack of CHD to the hospital(TIME_B_S)
 
 ESR (Erythrocyte sedimentation rate) (ROE) (мм)
-
-White blood cell count (billions per liter) (L_BLOOD)
 
 Serum AsAT content (AST_BLOOD) (IU/L)
 
