@@ -24,10 +24,10 @@ Ventricular tachycardia (JELUD_TAH)
 
 Serum CPK content (KFK_BLOOD) (IU/L)
 
+Heredity on CHD(IBS_NASL)
 
 # ANÁLISE
 
-Heredity on CHD(IBS_NASL)
 
 #Relapse of the pain in the third day of the hospital period(R_AB_3_n)#
 
