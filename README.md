@@ -57,3 +57,6 @@ Serum potassium content (K_BLOOD) (mmol/L)
 
 Hypokalemia ( < 4 mmol/L) (GIPO_K)
 
+Diastolic blood pressureaccording to Emergency Cardiology Team (D_AD_KBRIG)
+
+Systolic blood pressureaccording to intensive care unit(S_AD_ORIT)
