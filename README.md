@@ -30,7 +30,7 @@ Heredity on CHD(IBS_NASL)
 
 #Relapse of the pain in the third day of the hospital period(R_AB_3_n)#
 
-Use of liquid nitrates in the ICU(NITR_S)
+#Use of liquid nitrates in the ICU(NITR_S)#
 
 Use of lidocaine by the Emergency Cardiology Team(LID_KB)
 
