@@ -34,7 +34,7 @@ Heredity on CHD(IBS_NASL)
 
 Use of lidocaine by the Emergency Cardiology Team(LID_KB)
 
-Use of NSAIDs by the Emergency Cardiology Team(NOT_NA_KB)
+#Use of NSAIDs by the Emergency Cardiology Team(NOT_NA_KB)#
 
 Use of opioid drugs by the Emergency Cardiology Team(NA_KB)
 
