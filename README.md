@@ -28,7 +28,7 @@ Heredity on CHD(IBS_NASL)
 
 # ANÁLISE
 
-#Relapse of the pain in the third day of the hospital period(R_AB_3_n)#
+#Relapse of the pain in the third day of the hospital period(R_AB_3_n)# ANALIZADO
 
 #Use of liquid nitrates in the ICU(NITR_S)#
 
