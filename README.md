@@ -5,6 +5,7 @@ Esse projeto tem como objetivo utilizar modelos de machine learning para predize
 O projeto foi realizado nos seguintes passos:
 
 1 - Pré-processamento de dados;
+
 2 - Treinamento dos modelos;
 3 - Análise dos resultados obtidos nos treinamentos;
 4 - Utilização de técnicas de balanceamento de dados;
